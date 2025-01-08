@@ -1,2 +1,2 @@
 # spring-boot-micro-services
-Spring Boot Micro Services project
+JavaBrains Spring Boot Micro Services project
